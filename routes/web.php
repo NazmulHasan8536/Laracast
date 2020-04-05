@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\series;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
